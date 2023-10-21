@@ -2,7 +2,6 @@
 using namespace std;
 
 //little change
-//¡ı»Û«‰
 
 void sift(int a[], int root, int len)
 {
